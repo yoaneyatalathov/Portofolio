@@ -72,7 +72,7 @@ body {
     position: absolute;
     width: 302px;
     height: 78px;
-    left: 124px;
+    left: 70px;
     top: 772px;
 
     background: #4B7AF5;
@@ -104,4 +104,26 @@ body {
     height: 695px;
     left: 30px;
     top: 48px;
+}
+
+.login {
+    position: absolute;
+    width: 302px;
+    height: 78px;
+    left: 400px;
+    top: 772px;
+
+    background: #FFFFF;
+    border-radius: 40px; 
+
+}
+
+.login a {
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    text-decoration: none;
+
+    color: black;
+
 }
